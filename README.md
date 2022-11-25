@@ -1,16 +1,5 @@
-# note
+# NOTEY APP
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Thumbnails](https://user-images.githubusercontent.com/89961825/203981092-cf6aa18a-9141-4f1a-a499-bfb30b05c2e3.png)
+![Preview 9](https://user-images.githubusercontent.com/89961825/203981210-38f8530b-c562-47a6-8966-464570eb834f.png)
