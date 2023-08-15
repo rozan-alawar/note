@@ -7,4 +7,6 @@ The app also comes with a dark mode feature, which is easy on the eyes and helps
 </p>
 
 
+
+
 ![app](https://github.com/rozan-alawar/note/assets/89961825/f09c0c28-5c12-46c6-bc15-ff48c69cd295)
