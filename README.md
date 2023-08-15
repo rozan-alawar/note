@@ -6,5 +6,5 @@ With this note app, you can create, edit, and delete notes quickly and easily. T
 The app also comes with a dark mode feature, which is easy on the eyes and helps reduce eye strain. 
 </p>
 
-![2758e5f22b481b8bd95a93bd9f8a820e](https://user-images.githubusercontent.com/89961825/220938914-4e6a5a73-5390-4b3a-ba0f-86ef23457497.jpg)
 
+![app](https://github.com/rozan-alawar/note/assets/89961825/f09c0c28-5c12-46c6-bc15-ff48c69cd295)
